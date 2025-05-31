@@ -68,12 +68,12 @@ class NekosBestModule extends Module {
       } else {
         if (!victim) {
           interaction.reply({
-            embeds: [this.NekosEmbedBuilder(user, user.avatarURL(), interaction.commandName, url, url, `from ${anime_name}`)]
+            embeds: [this.NekosEmbedBuilder(user, user.avatarURL(), interaction.commandName, url, url, `anime: ${anime_name}`)]
           })
         } else {
           interaction.reply({
             content: userMention(victim.id),
-            embeds: [this.NekosEmbedBuilder(user, user.avatarURL(), interaction.commandName, url, url, `from ${anime_name}`)]
+            embeds: [this.NekosEmbedBuilder(user, user.avatarURL(), interaction.commandName, url, url, `anime: ${anime_name}`)]
           })
         }
       }
