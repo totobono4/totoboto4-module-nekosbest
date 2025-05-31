@@ -1,0 +1,188 @@
+{
+    "actionCommands": [
+        {
+            "name": "neko",
+            "description": "neko :3"
+        },
+        {
+            "name": "waifu",
+            "description": "waifu :3"
+        },
+        {
+            "name": "husbando",
+            "description": "husbando :3"
+        },
+        {
+            "name": "kitsune",
+            "description": "kitsune :3"
+        },
+        {
+            "name": "lurk",
+            "description": "lurk :3"
+        },
+        {
+            "name": "shoot",
+            "description": "shoot :3"
+        },
+        {
+            "name": "sleep",
+            "description": "sleep :3"
+        },
+        {
+            "name": "shrug",
+            "description": "shrug :3"
+        },
+        {
+            "name": "stare",
+            "description": "stare :3"
+        },
+        {
+            "name": "wave",
+            "description": "wave :3"
+        },
+        {
+            "name": "poke",
+            "description": "poke :3"
+        },
+        {
+            "name": "smile",
+            "description": "smile :3"
+        },
+        {
+            "name": "peck",
+            "description": "peck :3"
+        },
+        {
+            "name": "wink",
+            "description": "wink :3"
+        },
+        {
+            "name": "blush",
+            "description": "blush :3"
+        },
+        {
+            "name": "smug",
+            "description": "smug :3"
+        },
+        {
+            "name": "tickle",
+            "description": "tickle :3"
+        },
+        {
+            "name": "yeet",
+            "description": "yeet :3"
+        },
+        {
+            "name": "think",
+            "description": "think :3"
+        },
+        {
+            "name": "highfive",
+            "description": "highfive :3"
+        },
+        {
+            "name": "feed",
+            "description": "feed :3"
+        },
+        {
+            "name": "bite",
+            "description": "bite :3"
+        },
+        {
+            "name": "bored",
+            "description": "bored :3"
+        },
+        {
+            "name": "nom",
+            "description": "nom :3"
+        },
+        {
+            "name": "yawn",
+            "description": "yawn :3"
+        },
+        {
+            "name": "facepalm",
+            "description": "facepalm :3"
+        },
+        {
+            "name": "cuddle",
+            "description": "cuddle :3"
+        },
+        {
+            "name": "kick",
+            "description": "kick :3"
+        },
+        {
+            "name": "happy",
+            "description": "happy :3"
+        },
+        {
+            "name": "hug",
+            "description": "hug :3"
+        },
+        {
+            "name": "baka",
+            "description": "baka :3"
+        },
+        {
+            "name": "pat",
+            "description": "pat :3"
+        },
+        {
+            "name": "angry",
+            "description": "angry :3"
+        },
+        {
+            "name": "run",
+            "description": "run :3"
+        },
+        {
+            "name": "nod",
+            "description": "nod :3"
+        },
+        {
+            "name": "nope",
+            "description": "nope :3"
+        },
+        {
+            "name": "kiss",
+            "description": "kiss :3"
+        },
+        {
+            "name": "dance",
+            "description": "dance :3"
+        },
+        {
+            "name": "punch",
+            "description": "punch :3"
+        },
+        {
+            "name": "handshake",
+            "description": "handshake :3"
+        },
+        {
+            "name": "slap",
+            "description": "slap :3"
+        },
+        {
+            "name": "cry",
+            "description": "cry :3"
+        },
+        {
+            "name": "pout",
+            "description": "pout :3"
+        },
+        {
+            "name": "handhold",
+            "description": "handhold :3"
+        },
+        {
+            "name": "thumbsup",
+            "description": "thumbsup :3"
+        },
+        {
+            "name": "laugh",
+            "description": "laugh :3"
+        }
+    ]
+}
